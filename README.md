@@ -2,7 +2,6 @@
 Flutter News App - MVVM Architecture Study
 (Model, View, ViewModel)
 
-<img src="./readme/1.png" width="250"/> <img src="./readme/2.png" width="250"/> <img src="./readme/3.png" width="250"/> 
 
 ### API
 NewsAPI
