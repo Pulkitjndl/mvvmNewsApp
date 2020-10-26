@@ -1,6 +1,7 @@
 # Flutter News App (MVVM Study)
 Flutter News App - MVVM Architecture Study
 (Model, View, ViewModel)
+<img width="250"src="https://user-images.githubusercontent.com/40516537/97215130-13fbfe80-17ea-11eb-8b4c-4623dad1cc47.png"/><img width="25"src="https://user-images.githubusercontent.com/40516537/97215140-178f8580-17ea-11eb-89fe-693732ad1db4.png"/>
 
 
 ### API
